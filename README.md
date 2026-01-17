@@ -6,7 +6,7 @@
 
 ## 📋 Opis Projektu
 
-Celem projektu było zaprojektowanie i implementacja zegara cyfrowego z możliwością nastawy czasu. Ze względu na ograniczenia środowiska MCU 8051 IDE, projekt został zrealizowany na dwóch alternatywnych, nowoczesnych platformach w środowisku symulacyjnym WOKWI:
+Celem projektu było zaprojektowanie i implementacja zegara cyfrowego z możliwością nastawy czasu. Projekt został zrealizowany na dwóch alternatywnych, nowoczesnych platformach w środowisku symulacyjnym WOKWI:
 
 1.  **Arduino Uno** (Język C++) – wersja z obsługą sprzętowego RTC i Alarmu.
 2.  **Raspberry Pi Pico** (MicroPython) – wersja ze Stoperem i synchronizacją czasu systemowego.
